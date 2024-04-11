@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/SimpleDasboard/static/css/main.09b17ffa.css",
+    "main.js": "/SimpleDasboard/static/js/main.f7fc8194.js",
+    "static/js/453.74755f64.chunk.js": "/SimpleDasboard/static/js/453.74755f64.chunk.js",
+    "index.html": "/SimpleDasboard/index.html",
+    "main.09b17ffa.css.map": "/SimpleDasboard/static/css/main.09b17ffa.css.map",
+    "main.f7fc8194.js.map": "/SimpleDasboard/static/js/main.f7fc8194.js.map",
+    "453.74755f64.chunk.js.map": "/SimpleDasboard/static/js/453.74755f64.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.09b17ffa.css",
+    "static/js/main.f7fc8194.js"
+  ]
+}
